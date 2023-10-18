@@ -16,8 +16,7 @@
   
  <li> Implementação do algoritimo de tabela hash é uma estrutura de dados que é usada para armazenar e recuperar dados de forma eficiente.  </li>  
  <li> segue uma imagem do console após implementação </li>  
- ![image](https://github.com/FelipeNogarolli99/tabelaHash/assets/106127810/7c5f3a6f-70b8-4ff3-94a5-d63ca2e2ef24)
- [<img src=https://github-production-user-asset-6210df.s3.amazonaws.com/106127810/276375927-7c5f3a6f-70b8-4ff3-94a5-d63ca2e2ef24.png>]
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106127810/276375927-7c5f3a6f-70b8-4ff3-94a5-d63ca2e2ef24.png" width=160>
  </ul>
   
 
